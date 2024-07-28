@@ -53,4 +53,4 @@ jobs:
           app-name: 'DemoDotNet8AppForAzureWebHostiog'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4CF16CE5D5D4D7EB9BC808F814886E7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44F70D1B603D44579D8A4CC9E086F10B }}
